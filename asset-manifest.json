@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/homepage/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/homepage/static/js/main.58deb670.chunk.js",
+    "main.js.map": "/homepage/static/js/main.58deb670.chunk.js.map",
+    "runtime-main.js": "/homepage/static/js/runtime-main.3ed86e83.js",
+    "runtime-main.js.map": "/homepage/static/js/runtime-main.3ed86e83.js.map",
+    "static/js/2.acc6c476.chunk.js": "/homepage/static/js/2.acc6c476.chunk.js",
+    "static/js/2.acc6c476.chunk.js.map": "/homepage/static/js/2.acc6c476.chunk.js.map",
+    "index.html": "/homepage/index.html",
+    "precache-manifest.aa20f2a2d57435993810d6c2ce5d680a.js": "/homepage/precache-manifest.aa20f2a2d57435993810d6c2ce5d680a.js",
+    "service-worker.js": "/homepage/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/homepage/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.acc6c476.chunk.js.LICENSE.txt": "/homepage/static/js/2.acc6c476.chunk.js.LICENSE.txt",
+    "static/media/passport.jpg": "/homepage/static/media/passport.0a89ec86.jpg",
+    "static/media/photo.jpg": "/homepage/static/media/photo.540c97d5.jpg",
+    "static/media/photo001.webp": "/homepage/static/media/photo001.09da40e4.webp",
+    "static/media/photo3.jpg": "/homepage/static/media/photo3.5901f6ce.jpg",
+    "static/media/photo4.jpg": "/homepage/static/media/photo4.e9d21541.jpg",
+    "static/media/photo5.jpg": "/homepage/static/media/photo5.fe6937a7.jpg",
+    "static/media/photo6.jpg": "/homepage/static/media/photo6.d307cd52.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ed86e83.js",
+    "static/js/2.acc6c476.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.58deb670.chunk.js"
+  ]
+}
